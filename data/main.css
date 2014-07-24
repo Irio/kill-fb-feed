@@ -1,0 +1,3 @@
+div[id^="topnews_main_stream"] {
+  display: none;
+}
