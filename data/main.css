@@ -1,3 +1,4 @@
-div[id^="topnews_main_stream"] {
+div[id^="topnews_main_stream"],
+div[id^="pagelet_trending_tags_and_topics"] {
   display: none;
 }
