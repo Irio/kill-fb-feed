@@ -1,9 +1,13 @@
 # Changelog
 
+## 0.3
+
+* Hide News feed when ordered in more different ways.
+
 ## 0.2
 
-* Hides Trending panel.
+* Hide Trending panel.
 
 ## 0.1
 
-* Hides News feed.
+* Hide News feed.
