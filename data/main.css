@@ -1,6 +1,7 @@
 div[id^="topnews_main_stream"],
 div[id^="mostrecent_main_stream"],
 div[id^="pagelet_home_stream"],
-div[id^="pagelet_trending_tags_and_topics"] {
+div[id^="pagelet_trending_tags_and_topics"],
+#pagelet_bluebar [role="navigation"] li:nth-child(2) a > div /* News Feed's updates counter */ {
   display: none;
 }
